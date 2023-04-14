@@ -8,6 +8,8 @@
 
 - 💬 Ask me about **C/C++**
 
+- 💬 Ask me about **Data Structure**
+
 - 📫 How to reach me **5076prateek@gmail.com**
 
 - ⚡ Fun fact **Code is infinite loop.**

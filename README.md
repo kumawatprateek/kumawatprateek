@@ -1,12 +1,12 @@
 ![logo](https://github.com/kumawatprateek/kumawatprateek/blob/main/pratek%20pik.jpg)
 <h1 align="center">Hi 👋, I'm Prateek Kumawat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer/ AI Engineer from India</h3>
 <img align="right" width = "450" alt="Cyber Security Image"src="https://github.com/kumawatprateek/kumawatprateek/blob/main/cs-an.gif">
-- 🌱 I’m currently learning **Cyber Security,Python, Web development**
+- 🌱 I’m currently learning **Cyber Security,Python, Software development, AI Engineer**
 
 - 👨‍💻 All of my projects are available at [learnpath.com](learnpath.com)
 
-- 💬 Ask me about **C/C++**
+- 💬 Ask me about **Python, Java**
 
 - 💬 Ask me about **Data Structure**
 
